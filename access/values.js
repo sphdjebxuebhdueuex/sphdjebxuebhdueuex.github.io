@@ -4,7 +4,7 @@ var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
 var birthdate = "24.07.2003"; // Дата рождения
-var fullname = "Губенко Юрій Антнонович" // ФИО
+var fullname = "Губенко Юрій Андрійович" // ФИО
 var name = "Юрій" // Имя
 
 // Паспорт

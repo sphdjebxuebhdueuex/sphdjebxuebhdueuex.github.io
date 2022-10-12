@@ -3,8 +3,8 @@ var isRightsEnabled = false; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "24.07.2004"; // Дата рождения
-var fullname = "Юдін Юрій Олегович" // ФИО
+var birthdate = "24.07.2003"; // Дата рождения
+var fullname = "Губенко Юрій Антонович " // ФИО
 var name = "Юрій" // Имя
 
 // Паспорт
